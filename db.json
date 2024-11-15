@@ -25,17 +25,20 @@
       "terms": true,
       "volunteerOpportunities": [
         {
-          "id": "1731651659081",
-          "title": "job",
-          "description": "fghhjkl",
-          "location": "nairobi",
-          "duration": "2 years",
-          "startDate": "2024-11-14",
-          "requirements": "fghjkl",
-          "contactEmail": "baristars@gmail.com",
-          "applicationDeadline": "2024-11-20",
-          "benefits": "fghj",
-          "volunteerType": "remote"
+
+
+          "id": "1731648302916",
+          "title": "Teacher",
+          "description": "Good teacher",
+          "location": "Kenya",
+          "duration": "4",
+          "startDate": "2024-11-28",
+          "requirements": "Good",
+          "contactEmail": "example@email.com",
+          "applicationDeadline": "2024-11-30",
+          "benefits": "Good",
+          "volunteerType": "in-person"
+
         }
       ]
     }
