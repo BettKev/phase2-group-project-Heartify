@@ -6,6 +6,8 @@ The Nonprofit Donation and Volunteer Coordination Platform is an all-in-one solu
 # Problem Statement
 Nonprofits often struggle with limited resources, resulting in challenges in managing volunteer support and donation tracking. Many rely on fragmented tools and manual processes, which are time-consuming and error-prone, hindering their ability to meet community needs effectively.
 
+
+
 # Solution
 Our platform addresses these issues by providing a centralized system for:
 

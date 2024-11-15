@@ -104,6 +104,8 @@ const Organization = () => {
     );
   };
 
+  
+
   return (
     <div className="organization-container">
       <form className="volunteer-form" onSubmit={handleSubmit}>
